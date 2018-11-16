@@ -1,6 +1,6 @@
 # simple-rest-api
 
-demo of simple REST api
+Demo of simple REST api
 
 ## Getting Started
 
