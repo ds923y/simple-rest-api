@@ -12,6 +12,6 @@ demo of simple REST api
 
 1. Start a new REPL: `lein repl`
 2. Start your service in dev-mode: `(def dev-serv (run-dev))`
-3. use the rich comment in the database.clj to develope with the component library at the repl
+3. Use the rich comment in the database.clj to develope with the component library at the repl
 4. Connect your editor to the running REPL session.
    Re-evaluated code will be seen immediately in the service.
